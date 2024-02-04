@@ -1,0 +1,54 @@
+Correlation between original file size and compression ratio for WebP (Lossless):
+-0.03786073405670909
+Correlation between original file size and compression percentage for WebP (Lossless):
+-0.15439091857270243
+Correlation between original file size and compression time for WebP (Lossless):
+0.40818209309032344
+Correlation between original number of colors and compression ratio for WebP (Lossless):
+-0.08905398401664023
+Correlation between original number of colors and compression percentage for WebP (Lossless):
+-0.43994476602405574
+Correlation between original number of colors and compression time for WebP (Lossless):
+0.2983710507482682
+
+
+Correlation between original file size and compression ratio for AVIF (Lossless):
+0.06321518894704811
+Correlation between original file size and compression percentage for AVIF (Lossless):
+0.09231640817162706
+Correlation between original file size and compression time for AVIF (Lossless):
+0.19578948155013481
+Correlation between original number of colors and compression ratio for AVIF (Lossless):
+-0.07640035446361566
+Correlation between original number of colors and compression percentage for AVIF (Lossless):
+-0.09323308912965923
+Correlation between original number of colors and compression time for AVIF (Lossless):
+0.15361759465721822
+
+
+Correlation between original file size and compression ratio for WebP (Quality 100):
+-0.058242986313185564
+Correlation between original file size and compression percentage for WebP (Quality 100):
+-0.18417132683935925
+Correlation between original file size and compression time for WebP (Quality 100):
+0.5700993074277353
+Correlation between original number of colors and compression percentage for WebP (Quality 100):
+-0.37382856017023397
+Correlation between original number of colors and compression ratio for WebP (Quality 100):
+-0.11790912505768242
+Correlation between original number of colors and compression time for WebP (Quality 100):
+0.40896979304629405
+
+
+Correlation between original file size and compression ratio for AVIF (Quality 100):
+-0.07287020836315297
+Correlation between original file size and compression percentage for AVIF (Quality 100):
+-0.2417477378700152
+Correlation between original file size and compression time for AVIF (Quality 100):
+0.1824981662138764
+Correlation between original number of colors and com=pression percentage for AVIF (Quality 100):
+-0.410736488867146
+Correlation between original number of colors and compression ratio for AVIF (Quality 100):
+-0.1413885183330074
+Correlation between original number of colors and compression time for AVIF (Quality 100):
+0.1749970973470016

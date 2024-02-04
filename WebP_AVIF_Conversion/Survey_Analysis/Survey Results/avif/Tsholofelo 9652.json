@@ -1,0 +1,57 @@
+{
+    "studyStart": 1702520167913,
+    "PROLIFIC_PID": "611dc70972bb67a75b989a8c",
+    "STUDY_ID": "657a64abc19d884a11161b2f",
+    "SESSION_ID": "657a65453d9026d286b5399e",
+    "092913ad116449883c32eb40246b8a.png": {
+        "start": 1702520170115,
+        "type": "avif",
+        "choice": "1"
+    },
+    "6d4af4150586dfb784d827f24dd7d5.jpeg": {
+        "start": 1702520180802,
+        "type": "avif",
+        "choice": "2"
+    },
+    "bc5fb4d22beca047b2e6d0c2dda37e.jpeg": {
+        "start": 1702520196173,
+        "type": "avif",
+        "choice": "1"
+    },
+    "96648895284663336ab40d0d379b24.png": {
+        "start": 1702520203724,
+        "type": "avif",
+        "choice": "1"
+    },
+    "fe1c4ecae14b75c220165b93820253.jpeg": {
+        "start": 1702520219297,
+        "type": "avif",
+        "choice": "2"
+    },
+    "82d034cdea5c63668a4571fc79f41d.png": {
+        "start": 1702520233910,
+        "type": "avif",
+        "choice": "1"
+    },
+    "2a791d16abb36eb67c1aa0f8f927ff.jpeg": {
+        "start": 1702520247709,
+        "type": "avif",
+        "choice": "1"
+    },
+    "aaf66d89aeb50bea3dd0a083813145.jpeg": {
+        "start": 1702520254259,
+        "type": "avif",
+        "choice": "1"
+    },
+    "044167ae9e8fbe083cb0a2cab166d9.png": {
+        "start": 1702520264554,
+        "type": "avif",
+        "choice": "1"
+    },
+    "b1508f6e06504497c3da50d7031625.jpeg": {
+        "start": 1702520272587,
+        "type": "avif",
+        "choice": "1",
+        "pageChoice": "good-control"
+    }
+}

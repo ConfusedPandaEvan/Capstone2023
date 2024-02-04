@@ -1,0 +1,147 @@
+Stats for Simple Color Reduction (Compression Ratio):
+{'max': 5.9935614781285365, 'min': 0.1953748521028288, 'mean': 0.9462339265459707, 'first_quantile': 0.9170665761570936, 'third_quantile': 0.9991236552788184}
+Stats for Simple Color Reduction (Compression Time):
+{'max': 113.9505820274353, 'min': 5.412101745605469e-05, 'mean': 0.29148025501700364, 'first_quantile': 0.0508570671081543, 'third_quantile': 0.2825862765312194}
+
+
+Stats for Image Dithering (Compression Ratio):
+{'max': 1.058128788099894, 'min': 0.0453123341222608, 'mean': 0.8430885947182778, 'first_quantile': 0.7273825581490257, 'third_quantile': 0.9994278832666472}
+Stats for Image Dithering (Compression Time):
+{'max': 33096.628945827484, 'min': 6.67572021484375e-05, 'mean': 90.75572740746465, 'first_quantile': 6.037316918373108, 'third_quantile': 66.25674742460251}
+
+
+Stats for Median Cut (Compression Ratio):
+{'max': 1.0789375433356443, 'min': 0.562226794640166, 'mean': 0.9458394790816927, 'first_quantile': 0.9083130566299381, 'third_quantile': 0.9967911675231239}
+Stats for Median Cut (Compression Time):
+{'max': 27360.128774881363, 'min': 0.0001211166381835, 'mean': 132.04099115864622, 'first_quantile': 10.505427360534668, 'third_quantile': 91.55391550064087}
+
+
+Stats for Octree (Compression Ratio):
+{'max': 2.7771029108411645, 'min': 0.6270026146898027, 'mean': 0.9882975923697439, 'first_quantile': 0.9462476137945564, 'third_quantile': 1.0187760570681736}
+Stats for Octree (Compression Time):
+{'max': 68.32257199287415, 'min': 3.3855438232421875e-05, 'mean': 0.18436072253754854, 'first_quantile': 0.05032092332839963, 'third_quantile': 0.1663580536842346}
+
+------------------------------
+
+Stats for original  + WebP-lossless (Compression Ratio):
+{'max': 25.388739946380696, 'min': 0.1025649631802589, 'mean': 0.3079555368928476, 'first_quantile': 0.1846655328798186, 'third_quantile': 0.2446707721459024}
+Stats for original  + WebP-lossless (Compression Time):
+{'max': 75.92125701904297, 'min': 0.0008661746978759, 'mean': 0.6818722778721078, 'first_quantile': 0.1696279048919677, 'third_quantile': 0.6015260219573975}
+
+
+Stats for original  + WebP-100 (Compression Ratio):
+{'max': 13.717391304347826, 'min': 0.3729587228745087, 'mean': 0.5923505496612699, 'first_quantile': 0.4685880157578271, 'third_quantile': 0.5487114276025772}
+Stats for original  + WebP-100 (Compression Time):
+{'max': 10.52707290649414, 'min': 0.0045769214630126, 'mean': 0.3506021167723791, 'first_quantile': 0.1028180122375488, 'third_quantile': 0.3923819065093994}
+
+
+Stats for original  + AVIF-lossless (Compression Ratio):
+{'max': 15.836120401337793, 'min': 0.835416943742519, 'mean': 1.170757958296485, 'first_quantile': 1.0194443330794212, 'third_quantile': 1.2006021232768185}
+Stats for original  + AVIF-lossless (Compression Time):
+{'max': 29.408546924591064, 'min': 0.0056648254394531, 'mean': 0.35055247623065927, 'first_quantile': 0.0752923488616943, 'third_quantile': 0.3531110286712646}
+
+
+Stats for original  + AVIF-100 (Compression Ratio):
+{'max': 14.73929961089494, 'min': 0.1564870055050569, 'mean': 0.35938601280061644, 'first_quantile': 0.2811520014757425, 'third_quantile': 0.3636638719031709}
+Stats for original  + AVIF-100 (Compression Time):
+{'max': 93.760840177536, 'min': 0.0054471492767333, 'mean': 0.6163324015098272, 'first_quantile': 0.1098699569702148, 'third_quantile': 0.5026161670684814}
+
+------------------------------
+
+Stats for reduce ->  + WebP-lossless (Compression Ratio):
+{'max': 1396.3363636363636, 'min': 0.0406913491627317, 'mean': 0.5693230789716245, 'first_quantile': 0.16592256616609188, 'third_quantile': 0.23515262414892593}
+Stats for reduce ->  + WebP-lossless (Compression Time):
+{'max': 76.6853346824646, 'min': 0.0009386539459228, 'mean': 0.6186401068365425, 'first_quantile': 0.17464864253997797, 'third_quantile': 0.5925897359848022}
+
+
+Stats for dither ->  + WebP-lossless (Compression Ratio):
+{'max': 19.40909090909091, 'min': 0.0107376035136942, 'mean': 0.2572554250921064, 'first_quantile': 0.1473744914894327, 'third_quantile': 0.2259043622230317}
+Stats for dither ->  + WebP-lossless (Compression Time):
+{'max': 78.2214789390564, 'min': 0.0008502006530761, 'mean': 0.6845440364292846, 'first_quantile': 0.17943799495697016, 'third_quantile': 0.6186462640762329}
+
+
+Stats for medianCut ->  + WebP-lossless (Compression Ratio):
+{'max': 16.605263157894736, 'min': 0.0820433079840712, 'mean': 0.2903837521830539, 'first_quantile': 0.16977443115510332, 'third_quantile': 0.2418569418894059}
+Stats for medianCut ->  + WebP-lossless (Compression Time):
+{'max': 5098.763148784637, 'min': 0.0005719661712646, 'mean': 1.021083866730429, 'first_quantile': 0.17531806230545044, 'third_quantile': 0.6081665754318237}
+
+
+Stats for Octree ->  + WebP-lossless (Compression Ratio):
+{'max': 44.88151658767772, 'min': 0.098008383683276, 'mean': 0.334400644897342, 'first_quantile': 0.19138745251383088, 'third_quantile': 0.2774619411972475}
+Stats for Octree ->  + WebP-lossless (Compression Time):
+{'max': 5119.091017007828, 'min': 0.0006320476531982, 'mean': 1.2476562023472075, 'first_quantile': 0.17267620563507075, 'third_quantile': 0.5836145877838135}
+
+------------------------------
+
+Stats for reduce ->  + WebP-100 (Compression Ratio):
+{'max': 53.29528105482304, 'min': 0.0960549973558963, 'mean': 0.5810979332679483, 'first_quantile': 0.4382062534085871, 'third_quantile': 0.5315415706867639}
+Stats for reduce ->  + WebP-100 (Compression Time):
+{'max': 72.9018120765686, 'min': 0.0011568069458007, 'mean': 0.4167977168110266, 'first_quantile': 0.101581335067749, 'third_quantile': 0.4038165807723999}
+
+
+Stats for dither ->  + WebP-100 (Compression Ratio):
+{'max': 13.717391304347826, 'min': 0.0250424506812816, 'mean': 0.48211717539395643, 'first_quantile': 0.3350111204030299, 'third_quantile': 0.50544927756158}
+Stats for dither ->  + WebP-100 (Compression Time):
+{'max': 143.67835593223572, 'min': 0.0009751319885253, 'mean': 0.467405890109371, 'first_quantile': 0.10992938280105588, 'third_quantile': 0.43374019861221313}
+
+
+Stats for medianCut ->  + WebP-100 (Compression Ratio):
+{'max': 13.717391304347826, 'min': 0.274873911049977, 'mean': 0.5491658349345568, 'first_quantile': 0.4274924471299093, 'third_quantile': 0.5190951316015826}
+Stats for medianCut ->  + WebP-100 (Compression Time):
+{'max': 69.2918701171875, 'min': 0.000540018081665, 'mean': 0.40318226243907085, 'first_quantile': 0.10537946224212638, 'third_quantile': 0.4054490923881531}
+
+
+Stats for Octree ->  + WebP-100 (Compression Ratio):
+{'max': 13.717391304347826, 'min': 0.3072699661228145, 'mean': 0.6045674307050374, 'first_quantile': 0.46033357054435314, 'third_quantile': 0.5729529912419842}
+Stats for Octree ->  + WebP-100 (Compression Time):
+{'max': 5132.077099084854, 'min': 0.0016489028930664, 'mean': 0.8802689502005241, 'first_quantile': 0.10360729694366447, 'third_quantile': 0.401083767414093}
+
+------------------------------
+
+Stats for reduce ->  + AVIF-lossless (Compression Ratio):
+{'max': 687.8918918918919, 'min': 0.1594620219826526, 'mean': 1.1703747218720582, 'first_quantile': 0.9360773251972268, 'third_quantile': 1.1128768824847257}
+Stats for reduce ->  + AVIF-lossless (Compression Time):
+{'max': 77.51809406280518, 'min': 0.0038011074066162, 'mean': 0.32316912294275946, 'first_quantile': 0.07546484470367427, 'third_quantile': 0.3275255560874939}
+
+
+Stats for dither ->  + AVIF-lossless (Compression Ratio):
+{'max': 14.403041825095055, 'min': 0.0330167859596754, 'mean': 0.9242776364140554, 'first_quantile': 0.717084738177389, 'third_quantile': 1.085719851821095}
+Stats for dither ->  + AVIF-lossless (Compression Time):
+{'max': 75.2573549747467, 'min': 0.0029940605163574, 'mean': 0.35509216335325217, 'first_quantile': 0.0802257657051086, 'third_quantile': 0.3346658945083618}
+
+
+Stats for medianCut ->  + AVIF-lossless (Compression Ratio):
+{'max': 10.458310325786858, 'min': 0.6647346403911093, 'mean': 1.0455506765258114, 'first_quantile': 0.9464921308436116, 'third_quantile': 1.0655252998749802}
+Stats for medianCut ->  + AVIF-lossless (Compression Time):
+{'max': 973.0428941249849, 'min': 0.0038349628448486, 'mean': 0.5628907256003398, 'first_quantile': 0.07862693071365355, 'third_quantile': 0.34383076429367065}
+
+
+Stats for Octree ->  + AVIF-lossless (Compression Ratio):
+{'max': 15.836120401337793, 'min': 0.6619411636372969, 'mean': 1.1279698203057948, 'first_quantile': 0.973305338366455, 'third_quantile': 1.1384961994951597}
+Stats for Octree ->  + AVIF-lossless (Compression Time):
+{'max': 2897.123934030533, 'min': 0.0008246898651123, 'mean': 0.5314444039633818, 'first_quantile': 0.07533138990402219, 'third_quantile': 0.31666845083236694}
+
+------------------------------
+
+Stats for reduce ->  + AVIF-100 (Compression Ratio):
+{'max': 387.5044982698962, 'min': 0.0662968099861303, 'mean': 0.4224315808269656, 'first_quantile': 0.26661537605556695, 'third_quantile': 0.35229192329513404}
+Stats for reduce ->  + AVIF-100 (Compression Time):
+{'max': 86.79533386230469, 'min': 0.0022389888763427, 'mean': 0.4765712633344587, 'first_quantile': 0.10935121774673455, 'third_quantile': 0.4774485230445861}
+
+
+Stats for dither ->  + AVIF-100 (Compression Ratio):
+{'max': 8.756356911696718, 'min': 0.0159912726791883, 'mean': 0.2961830729455752, 'first_quantile': 0.21815456884583087, 'third_quantile': 0.3299629312388355}
+Stats for dither ->  + AVIF-100 (Compression Time):
+{'max': 1938.868764162064, 'min': 0.0043389797210693, 'mean': 0.6361339380700232, 'first_quantile': 0.10879397392272944, 'third_quantile': 0.4942411780357361}
+
+
+Stats for medianCut ->  + AVIF-100 (Compression Ratio):
+{'max': 10.622546270330902, 'min': 0.1516464991631226, 'mean': 0.3360343561697165, 'first_quantile': 0.2618361999636807, 'third_quantile': 0.3460636700295277}
+Stats for medianCut ->  + AVIF-100 (Compression Time):
+{'max': 5139.841682910919, 'min': 0.0039649009704589, 'mean': 0.8891119607537018, 'first_quantile': 0.10910433530807492, 'third_quantile': 0.5139248967170715}
+
+
+Stats for Octree ->  + AVIF-100 (Compression Ratio):
+{'max': 18.42412451361868, 'min': 0.1598807094647622, 'mean': 0.37852324962871603, 'first_quantile': 0.2890678093971221, 'third_quantile': 0.3851411340807531}
+Stats for Octree ->  + AVIF-100 (Compression Time):
+{'max': 114.98571276664734, 'min': 0.0062079429626464, 'mean': 0.4679230815276132, 'first_quantile': 0.1053406000137329, 'third_quantile': 0.463839590549469}

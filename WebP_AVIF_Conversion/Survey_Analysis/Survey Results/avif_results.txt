@@ -1,0 +1,12 @@
+Mean value of mean_choice: 2.173674252100239
+Minimum value: 1.0
+1st Quantile: 1.8
+2nd Quantile: 2.174242424242424
+3rd Quantile: 2.555555555555556
+Maximum value: 4.0
+Mean value of median_choice: 2.05
+Minimum value: 1.0
+1st Quantile: 1.0
+2nd Quantile: 2.0
+3rd Quantile: 3.0
+Maximum value: 4.0
